@@ -2,11 +2,12 @@
 Script working as API to "keepvid.com"
 videos could directly be downloaded from websites supported by "keepvid.com" through any download manager which are having command line support for the downloads.
 
+
 Steps:
-  run setup_1.py
-  copy `icon.ico`, `icon.png` and `ReadMe.txt` to `dist` folder
-  configure inno script accordingly(`setup_new.iss`)
-  compile `setup_new.iss`
+  1. run setup_1.py
+  2. copy `icon.ico`, `icon.png` and `ReadMe.txt` to `dist` folder
+  3. configure inno script accordingly(`setup_new.iss`)
+  4. compile `setup_new.iss`
   
 
 YoDa command:
