@@ -1,0 +1,6 @@
+YoDa_v1.9.9
+This software downloads the videos from video sites using your download manager.
+
+
+Developed by Yogi
+e-mail: acetheultimate(at)gmail(dot)com
