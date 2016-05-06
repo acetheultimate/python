@@ -24,8 +24,15 @@ YoDa command:
 		for Internet Download Manager
 	
 	for more commands, Please visit your Download Manager Website and implement those using YoDa syntax
-Add:
-1. While adding a download manager, If there already exists a Download Manager with given name, It would first ask for another name or replace the current Download Manager. If you fill the same again, It would force overwrite the previous configuration.
+Adding a download manager:
+	1. While adding a download manager, If there already exists a Download Manager with given name, It would first ask for another name or replace the current Download Manager. If you fill the same again, It would force overwrite the previous configuration.
+
+# Windows Executable Setup
+
+Download from: http://devzone.pe.hu/YoDa/
+Also You can use the web version @ http://video.feedabyte.com and http://devzone.pe.hu/
+
+Just Install and Enjoy ;)
 
 
 NOTE
