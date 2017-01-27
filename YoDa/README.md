@@ -1,3 +1,5 @@
+**We're moving from KeepVid.com to 9xbuddy.com, Please be patient and YoDa will rise again. Thank You!**
+
 # YoDa
 Script working as API to "keepvid.com"
 videos could directly be downloaded from websites supported by "keepvid.com" through any download manager which are having command line support for the downloads.
